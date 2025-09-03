@@ -69,3 +69,14 @@ Thanks for these awesome works  [Traj-LO](https://github.com/kevin2431/Traj-LO)(
 The parallel environment is adapted from [Fast-Evo](https://github.com/midiexiangxxx/fastevo) (Faster evo-ape/traj implemented in C++20)
 
 Thanks [Chengrui Zhu](https://github.com/chengruiz) for implementing the PPO RL algorithm.
+
+## Citation
+If you find this code useful, please consider citing:
+```
+@article{li2025l2calib,
+  title={L2Calib: $ SE (3) $-Manifold Reinforcement Learning for Robust Extrinsic Calibration with Degenerate Motion Resilience},
+  author={Li, Baorun and Zhu, Chengrui and Du, Siyi and Chen, Bingran and Ren, Jie and Wang, Wenfei and Liu, Yong and Lv, Jiajun},
+  journal={arXiv preprint arXiv:2508.06330},
+  year={2025}
+}
+```
